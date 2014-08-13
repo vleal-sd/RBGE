@@ -29,8 +29,8 @@ To join the fun, once you've been added to the Fufluns organisation and can acce
 *******
 
 ### Who/What IS Fufluns?!  
-_Fufluns is the ancient Etruscan god of plant life, happiness and health and growth in all things^*_ - perfect for plant-focussed coders as we learn!
+_Fufluns<sup>*</sup> is the ancient Etruscan god of plant life, happiness and health and growth in all things_    - perfect for plant-focussed coders as we learn!
 
-^* ^- ^http://en.wikipedia.org/wiki/Fufluns
+<sup>* - http://en.wikipedia.org/wiki/Fufluns</sup>
 
 *******
