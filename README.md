@@ -25,3 +25,12 @@ To join the fun, once you've been added to the Fufluns organisation and can acce
 10. Make any changes locally, then **push** the changes up to the remote repo as usual using `git push` so we can all see them!
 
 ### Enjoy!
+
+*******
+
+### Who/What IS Fufluns?!  
+_Fufluns is the ancient Etruscan god of plant life, happiness and health and growth in all things^*_ - perfect for plant-focussed coders as we learn!
+
+^* ^- ^http://en.wikipedia.org/wiki/Fufluns
+
+*******
