@@ -14,7 +14,7 @@ https://www.coursera.org/course/rprog
     * @emhaston
     * emhaston on GitHub
 * Robyn Drinkwater
-    * r.drinkwater@rbge.ac.uk
+    * redrinkwater@gmail.com
     * @RobynDrinkwater
     * redrinkwater on GitHub
 * David Purvis
@@ -102,6 +102,11 @@ David is using the following  (in 64bit Windows 7):
 
 ### Week 3 Notes:  
 
+
+###Assignment 1 notes:
+
+I struggled with the first step of Assignment one, but found this document very useful! 
+https://github.com/derekfranks/practice_assignment/blob/master/Practice_Assignment.pdf
 
 ### Course Project Notes: 
 
