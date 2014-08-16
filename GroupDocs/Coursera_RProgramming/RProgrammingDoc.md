@@ -6,8 +6,8 @@ For markdown hints, check out RStudio's quick reference (or check out this: http
 ## Course Info: 
 https://www.coursera.org/course/rprog
 
-## Who i’s Enrolled? 
-(Please add any additional contact details you’d like to share below your name)
+## Who iâ€™s Enrolled? 
+(Please add any additional contact details youâ€™d like to share below your name)
 
 * Elspeth Haston
     * e.haston@rbge.org.uk
@@ -74,7 +74,7 @@ Flic is currently using the following (in 64bit Windows 7):
 However I already had most of these installed (except Rtools) so they may not be the versions recommended by the course.
 
 Elspeth is using the following (in 64bit Windows 7):
-* 64bit R - v3.0.0 (have not yet seen if I’ll have the same problem with RStudio - thanks for the tip) I also have 32bit R i386 v3.0.0 (so I guess I may be able to use this?)
+* 64bit R - v3.0.0 (have not yet seen if Iâ€™ll have the same problem with RStudio - thanks for the tip) I also have 32bit R i386 v3.0.0 (so I guess I may be able to use this?)
 * Git - v1.9.0
 
 Catherine is using (in Mac 10.9.3, and Linux a bit I hope)
@@ -88,8 +88,8 @@ Robyn is using the following  (in 64bit Windows 7):
 * RStudio - v0.98.507 (32bit)
 * Git 1.9.4
 
-David is using the following  (in 64bit Windows 7):
-* R v3.1.0 - seem to have both 32 and 64 bit available
+David is using the following  (in Mac 10.7.5):
+* R v3.1.1
 * RStudio - v0.98.507 (32bit)
 * Git 1.9.4
 
@@ -112,7 +112,7 @@ https://github.com/derekfranks/practice_assignment/blob/master/Practice_Assignme
 
 
 ### Handy Tips: 
-Feel free to share any resources or information you’ve found useful in doing this course!
+Feel free to share any resources or information youâ€™ve found useful in doing this course!
 
 
 ### Useful Sites:
