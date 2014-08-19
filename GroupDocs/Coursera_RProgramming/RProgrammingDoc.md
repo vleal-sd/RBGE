@@ -6,7 +6,7 @@ For markdown hints, check out RStudio's quick reference (or check out this: http
 ## Course Info: 
 https://www.coursera.org/course/rprog
 
-## Who i’s Enrolled? 
+## Who is Enrolled? 
 (Please add any additional contact details you’d like to share below your name)
 
 * Elspeth Haston
@@ -33,14 +33,31 @@ https://www.coursera.org/course/rprog
 
 ### Next suggested meet-up : 
 
-Suggested that we swap to Wednesday meet ups instead of Fridays. 
+~~Suggested that we swap to Wednesday meet ups instead of Fridays.~~^DONE 
 
 **Next meet-up 20th August, 3.15pm, canteen**   
 For discussion:
+* Upcoming deadlines - what's due when?
+   * Programming assignment 2 (peer evaluated, so no late days can be applied!) - DUE Mon 25 Aug 12:30 am (BST)
+   * Quiz 3 - DUE Mon 25 Aug 12:30 am (BST)
 * Programming Assignment 1 - how did it go?
-* Quiz 2
+    * post-event code debrief? ^_^
+    * any particularly tricky concepts that we could go over?
+* Programming Assignment 2 - has anyone started?  Any tips?
+    * submit via github so need to fork the repo & clone to your local machine - is everyone confident with this?
+    * will be assessed on whether there's >1 commit, so remember to periodically commit for the marker's sake & yours!
+    * 
+* Quiz 2 debrief
 * Swirl - useful?
-
+* Any progress on the S: drive storage place?
+    * Or is the best thing a shared dropbox or similar if it won't be accessible by non-RBGE staff?
+    * Any other ideas?
+* How are people finding Fufluns shared repo? 
+    * is everyone aware of it?  @emhaston?
+    * finding pulling/commiting/pushing alright? @redrinkwater & @DavidPurvis
+* Any progress on an RBGE repo? :D
+* Any cool shares/ R news? 
+    * {cowsay} package! - make not very serious ascii fortunes/art for your console & more interesting error messages
 
 
 ### Previous meet-ups: 
@@ -103,7 +120,7 @@ David is using the following  (in Mac 10.7.5):
 ### Week 3 Notes:  
 
 
-###Assignment 1 notes:
+### Assignment 1 notes:
 
 I struggled with the first step of Assignment one, but found this document very useful! 
 https://github.com/derekfranks/practice_assignment/blob/master/Practice_Assignment.pdf
@@ -116,3 +133,5 @@ Feel free to share any resources or information you’ve found useful in doing t
 
 
 ### Useful Sites:
+
+* R-bloggers - R news & tutorials - http://www.r-bloggers.com/
