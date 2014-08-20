@@ -124,6 +124,13 @@ David is using the following  (in Mac 10.7.5):
 I struggled with the first step of Assignment one, but found this document very useful! 
 https://github.com/derekfranks/practice_assignment/blob/master/Practice_Assignment.pdf
 
+### Assignment 2 notes: 
+
+Flic: I found [this tutorial](http://adv-r.had.co.nz/Functions.html) by Hadley Wickham (one of the pantheon of R gods) to be quite useful background for getting my head into the Lexical Scoping zone and thinking about environments and things, although it goes way past what this assignment requires when it describes the Lexical scoping and things!  But it's quite a useful resource anyway.
+
+Flic: I also found the comments on the discussion board quite handy in helping me get my head around exactly what the means example was doing, which was @redrinkwater's handy tip!  For testing my finished functions, I found [this thread](https://class.coursera.org/rprog-006/forum/thread?thread_id=727) quite useful for some example calls to see if I got what I expected, since I wasn't quite clear on how the input worked at first.  [This one](https://class.coursera.org/rprog-006/forum/thread?thread_id=626) was also quite helpful on breaking down the example a little if you really can't fathom it.
+
+
 ### Course Project Notes: 
 
 
