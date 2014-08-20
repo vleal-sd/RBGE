@@ -33,10 +33,13 @@ https://www.coursera.org/course/rprog
 
 ### Next suggested meet-up : 
 
-~~Suggested that we swap to Wednesday meet ups instead of Fridays.~~^DONE 
-
-**Next meet-up 20th August, 3.15pm, canteen**   
+**Next meet-up Wednesday 27th August 2014, 3.15pm, canteen**   
 For discussion:
+
+### Previous meet-ups: 
+
+*20th August, 3.15pm, canteen*   
+Topics:
 * Upcoming deadlines - what's due when?
    * Programming assignment 2 (peer evaluated, so no late days can be applied!) - DUE Mon 25 Aug 12:30 am (BST)
    * Quiz 3 - DUE Mon 25 Aug 12:30 am (BST)
@@ -57,11 +60,7 @@ For discussion:
     * finding pulling/commiting/pushing alright? @redrinkwater & @DavidPurvis
 * Any progress on an RBGE repo? :D
 * Any cool shares/ R news? 
-    * {cowsay} package! - make not very serious ascii fortunes/art for your console & more interesting error messages
-
-
-### Previous meet-ups: 
-
+    * [{cowsay} package!](https://gist.github.com/FlicAnderson/8d57a49e93a240b9060d) - make not very serious ascii fortunes/art for your console & more interesting error messages
 
 *15th Aug  - afternoon coffee, 3.15pm, canteen*   
 Topics:
