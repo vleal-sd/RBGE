@@ -1,0 +1,41 @@
+## Example .gitignore file:  .gitignore
+## =====================================
+## (21st August 2014)
+## Author: Flic Anderson
+
+# This will let Git know what files you don't want it to track, which can be 
+# useful for big files, sensitive files or things like .RData / .Rhistory /etc 
+# which don't need to be tracked on github and just clutter up commits
+# See examples on how to ignore files at different levels at the bottom of this
+# script...
+
+
+## --- Actual files to be ignored: --- ##
+
+# all the Rstudio workspace and project files 
+.RData
+.Rhistory
+.Rproj.user/**
+
+# database files (since these tend to be too large to track)
+.mdb
+
+## --- Examples of how to ignore files: --- ##
+
+# no .a files
+# *.a
+
+# but do track lib.a, even though you're ignoring .a files above
+# !lib.a
+
+# only ignore the root TODO file, not subdir/TODO
+# /TODO
+
+# ignore all files in the build/ directory
+# build/
+
+# ignore doc/notes.txt, but not doc/server/arch.txt
+# doc/*.txt
+
+# ignore all .txt files in the doc/ directory
+# doc/**/*.txt
