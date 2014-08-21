@@ -7,7 +7,7 @@ For markdown hints, check out RStudio's quick reference (or check out this: http
 https://www.coursera.org/course/rprog
 
 ## Who is Enrolled? 
-(Please add any additional contact details youâ€™d like to share below your name)
+(Please add any additional contact details you'€™d like to share below your name)
 
 * Elspeth Haston
     * e.haston@rbge.org.uk
@@ -27,6 +27,10 @@ https://www.coursera.org/course/rprog
     * f.anderson@rbge.ac.uk
     * @Flic_Anderson
     * FlicAnderson on GitHub
+
+#### Note from Flic:   
+To email everyone in the code group, send an email to "rbgecodegroup@googlegroups.com".  It is currently being used to set up email notifications for commits on Fufluns/RBGE repo, hence why it'll say that in the footer/etc (I can change this if you'd prefer?) but it also allows you to email everyone at once since it's a group mailing list technically.  If you want to subscribe, let me know.  If you're subscribed but don't wish to be, there are details in the footer of an email from the list.  If the volume of emails becomes too much because we're all committing like crazy, let me know and I can tweak it if necessary.      
+Group mailing lists: *"With great power, comes great responsibility"* - Peter Parker
 
 
 ## Meet-Ups:
