@@ -159,10 +159,10 @@ hr {
 <ul>
 <li><code>git init</code></li>
 </ul></li>
-<li><strong>Link</strong> the local repo you&#39;ve just initialised (in this case we&#39;ve called it &ldquo;origin&rdquo;) to the main GitHub online remote repository (we&#39;ll call this &ldquo;master&rdquo;) by using:
+<li><strong>Link</strong> the local repo you&#39;ve just initialised (in this case we&#39;ve called it &ldquo;origin&rdquo;) to the main GitHub online remote repository by using:
 
 <ul>
-<li><code>git remote add origin master https://github.com/Fufluns/RBGE.git</code></li>
+<li><code>git remote add origin https://github.com/Fufluns/RBGE.git</code></li>
 </ul></li>
 <li>Now <strong>verify</strong> the repositories are linked, using: 
 
@@ -170,7 +170,7 @@ hr {
 <li><code>git remote -v</code></li>
 </ul></li>
 <li>You should see two lines showing you the fetch/pull urls for your repo</li>
-<li>Now <strong>pull</strong> the online content of the remote repo on GitHub down to your local repo, using: 
+<li>Now <strong>pull</strong> the online content of the remote repo (we&#39;ll call this &ldquo;master&rdquo;) on GitHub down to your local repo (aka &ldquo;origin&rdquo;), using: 
 
 <ul>
 <li><code>git pull origin master</code> </li>
@@ -178,6 +178,12 @@ hr {
 </ul></li>
 <li>Use <code>git status</code> to <strong>check</strong> it&#39;s all good, and <code>ls</code> and <code>cd</code> to see what files and folders are there.</li>
 <li>Make any changes locally, then <strong>push</strong> the changes up to the remote repo as usual using <code>git push</code> so we can all see them!</li>
+<li>If you notice that any changes have been made by others from <a href="https://github.com/Fufluns/RBGE/commits/master">this page</a>, use the following to <strong>pull</strong> them down from the online remote (master) to your local repo copy (origin):
+
+<ul>
+<li><code>git pull origin master</code></li>
+</ul></li>
+<li>Then <strong>push</strong> any further edits or additions or other changes you make back up, <em>and so on&hellip;</em></li>
 </ol>
 
 <h3>Enjoy!</h3>
