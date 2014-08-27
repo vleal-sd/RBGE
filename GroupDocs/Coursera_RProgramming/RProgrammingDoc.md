@@ -37,10 +37,20 @@ Group mailing lists: *"With great power, comes great responsibility"* - Peter Pa
 
 ### Next suggested meet-up : 
 
-**Next meet-up Wednesday 27th August 2014, 3.15pm, canteen**   
+**Next meet-up Wednesday 3rd September 2014, 3.15pm, canteen**   
 For discussion:
+* R Programming debrief
+   * General thoughts on the course
+   * Anything which would've helped?
 
 ### Previous meet-ups: 
+
+*27th August 2014, 3.15pm, canteen*   
+Topics:   
+* Programming Assignment 2 - evaluation stage
+    * Overall no big problems with evaluation stage
+* Quiz foibles (qpois function!)
+* <<- operator - useful when you need to create an object inside a function then use it outside the function! (thanks @emhaston) 
 
 *20th August, 3.15pm, canteen*   
 Topics:
@@ -144,4 +154,5 @@ Feel free to share any resources or information you’ve found useful in doing t
 
 ### Useful Sites:
 
-* R-bloggers - R news & tutorials - http://www.r-bloggers.com/
+* R-bloggers - R news & tutorials - http://www.r-bloggers.com/  
+* GitHub Guides - Making your Code Citable: guide on how to set up DOIs for your repos - https://guides.github.com/activities/citable-code/
