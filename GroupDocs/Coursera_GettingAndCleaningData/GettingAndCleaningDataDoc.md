@@ -7,7 +7,7 @@ For markdown hints, check out RStudio's quick reference (or check out this: http
 https://www.coursera.org/course/getdata
 
 ## Who is Enrolled? 
-(Please add any additional contact details you'€™d like to share below your name)
+(Please add any additional contact details you'??d like to share below your name)
 
 * Elspeth Haston
     * e.haston@rbge.org.uk
@@ -38,19 +38,22 @@ Group mailing lists: *"With great power, comes great responsibility"* - Peter Pa
 
 ### Next suggested meet-up : 
 
-**Next meet-up Wednesday 3rd September 2014, 3.15pm, canteen**   
+**Next meet-up Wednesday 10th September 2014, 3.15pm, canteen**   
 For discussion:
-* Getting & Cleaning Data course 
-    * Upcoming deadlines
-    * Assignments/assessments
-    * Any new software required? (unlikely)
+  * Quiz 1 (how it went)
+  * Quiz 2 (upcoming)
+  * Course Project - has anyone looked at it?
+  * Has everyone finished the R course yet? :D
+  * swirl
+    
 
 ### Previous meet-ups: 
 
-*[Date], 3.15pm, canteen*   
+*Wednesday 3rd September 2014, 3.15pm, canteen*   
 Topics:   
-* Topic
-    * Subtopic
+  * Upcoming deadlines - Quiz 1: Monday 8th September
+  * Assignments/assessments - nice feedback :)
+  * Any new software required? ~~(unlikely)~~^NOPE
 
 
 ### Software Versions:
@@ -86,10 +89,7 @@ David is using the following  (in Mac 10.7.5):
 ### Week 3 Notes:  
 
 
-### Assignment 1 notes:
-
-
-### Assignment 2 notes: 
+### Weel 4 Notes: 
 
 
 ### Course Project Notes: 
