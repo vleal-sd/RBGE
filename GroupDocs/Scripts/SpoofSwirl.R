@@ -31,9 +31,9 @@ swirl()
 detach("package:swirl", unload=TRUE)
 
 # re-install official swirl
-if (!require(devtools)){
-  install.packages("devtools")
-  library(devtools)
+if (!require(swirl)){
+  install.packages("swirl")
+  library(swirl)
 } 
 
 # continue! :D
