@@ -15,8 +15,14 @@ if (!require(devtools)){
 # install Flic's fork of the swirl package from GitHub
 install_github(repo="FlicAnderson/swirl")
 
+# load the faux-swirl package
+library(swirl)
+
 # clear your workspace:
 rm(list=ls())
+
+# install the necessary courses, e.g:
+install_from_swirl("Getting and Cleaning Data")
 
 # run the package & follow all the instructions as usual:
 swirl()
