@@ -1,4 +1,4 @@
-﻿# Coursera Course - Getting & Cleaning Data
+# Coursera Course - Getting & Cleaning Data
 *1st September - 29th September 2014*
 
 For markdown hints, check out RStudio's quick reference (or check out this: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet though it can be confusing...)
@@ -38,17 +38,24 @@ Group mailing lists: *"With great power, comes great responsibility"* - Peter Pa
 
 ### Next suggested meet-up : 
 
-**Next meet-up Wednesday 17th September 2014, 3.15pm, canteen**
+**Next meet-up Wednesday 24th September 2014, 3.15pm, canteen**
 For discussion:
-  * Quiz 2 (how it went)
-  * Quiz 3 (upcoming)
-  * Course Project - has anyone looked at it?
+  * Quiz 3 
+  * Quiz 4 (upcoming)
+  * Course Project Submission/Evaluation
   * swirl
     
 ### Previous meet-ups: 
 
+*Wednesday 17th September 2014, 3.15pm, canteen*
+Topics:
+  * Quiz 2 (how it went)
+  * Quiz 3 (upcoming)
+  * Course Project - has anyone looked at it?
+  * swirl
+
 *Wednesday 10th September 2014, 3.15pm, canteen*  
-For discussion:
+Topics:
   * Quiz 1 (how it went)
   * Quiz 2 (upcoming)
   * Course Project - has anyone looked at it?
