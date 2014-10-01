@@ -38,12 +38,13 @@ Group mailing lists: *"With great power, comes great responsibility"* - Peter Pa
 
 ### Next suggested meet-up : 
 
-**Next meet-up Wednesday 24th September 2014, 3.15pm, canteen**
+**Next meet-up Wednesday 1st October 2014, 3.15pm, canteen**
 For discussion:
-  * Quiz 3 
-  * Quiz 4 (upcoming)
+  * Quizzes, Project
   * Course Project Submission/Evaluation
   * swirl
+  * How did it go?
+  * Next course?
     
 ### Previous meet-ups: 
 
