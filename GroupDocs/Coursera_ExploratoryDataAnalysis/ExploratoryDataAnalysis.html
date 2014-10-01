@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=9" >
+
+<title>Coursera Course - Exploratory Data Analysis</title>
+
+<style type="text/css">
+body, td {
+   font-family: sans-serif;
+   background-color: white;
+   font-size: 12px;
+   margin: 8px;
+}
+
+tt, code, pre {
+   font-family: 'DejaVu Sans Mono', 'Droid Sans Mono', 'Lucida Console', Consolas, Monaco, monospace;
+}
+
+h1 { 
+   font-size:2.2em; 
+}
+
+h2 { 
+   font-size:1.8em; 
+}
+
+h3 { 
+   font-size:1.4em; 
+}
+
+h4 { 
+   font-size:1.0em; 
+}
+
+h5 { 
+   font-size:0.9em; 
+}
+
+h6 { 
+   font-size:0.8em; 
+}
+
+a:visited {
+   color: rgb(50%, 0%, 50%);
+}
+
+pre {	
+   margin-top: 0;
+   max-width: 95%;
+   border: 1px solid #ccc;
+   white-space: pre-wrap;
+}
+
+pre code {
+   display: block; padding: 0.5em;
+}
+
+code.r, code.cpp {
+   background-color: #F8F8F8;
+}
+
+table, td, th {
+  border: none;
+}
+
+blockquote {
+   color:#666666;
+   margin:0;
+   padding-left: 1em;
+   border-left: 0.5em #EEE solid;
+}
+
+hr {
+   height: 0px;
+   border-bottom: none;
+   border-top-width: thin;
+   border-top-style: dotted;
+   border-top-color: #999999;
+}
+
+@media print {
+   * { 
+      background: transparent !important; 
+      color: black !important; 
+      filter:none !important; 
+      -ms-filter: none !important; 
+   }
+
+   body { 
+      font-size:12pt; 
+      max-width:100%; 
+   }
+       
+   a, a:visited { 
+      text-decoration: underline; 
+   }
+
+   hr { 
+      visibility: hidden;
+      page-break-before: always;
+   }
+
+   pre, blockquote { 
+      padding-right: 1em; 
+      page-break-inside: avoid; 
+   }
+
+   tr, img { 
+      page-break-inside: avoid; 
+   }
+
+   img { 
+      max-width: 100% !important; 
+   }
+
+   @page :left { 
+      margin: 15mm 20mm 15mm 10mm; 
+   }
+     
+   @page :right { 
+      margin: 15mm 10mm 15mm 20mm; 
+   }
+
+   p, h2, h3 { 
+      orphans: 3; widows: 3; 
+   }
+
+   h2, h3 { 
+      page-break-after: avoid; 
+   }
+}
+
+</style>
+
+
+
+
+
+</head>
+
+<body>
+<h1>Coursera Course - Exploratory Data Analysis</h1>
+
+<p><em>6th October - 3rd November 2014</em></p>
+
+<p>For markdown hints, check out RStudio&#39;s quick reference (or check out this: <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a> though it can be confusing&hellip;)</p>
+
+<h2>Course Info:</h2>
+
+<p><a href="https://www.coursera.org/course/exdata">https://www.coursera.org/course/exdata</a></p>
+
+<h2>Who is Enrolled?</h2>
+
+<p>(Please add any additional contact details you&#39;d like to share below your name)</p>
+
+<ul>
+<li>Robyn Drinkwater
+
+<ul>
+<li><a href="mailto:redrinkwater@gmail.com">redrinkwater@gmail.com</a></li>
+<li>@RobynDrinkwater</li>
+<li>redrinkwater on GitHub</li>
+</ul></li>
+<li>Felicity Anderson
+
+<ul>
+<li><a href="mailto:f.anderson@rbge.ac.uk">f.anderson@rbge.ac.uk</a></li>
+<li>@Flic_Anderson</li>
+<li>FlicAnderson on GitHub</li>
+</ul></li>
+<li>Anyone else?</li>
+</ul>
+
+<h4>Note from Flic:</h4>
+
+<p>To email everyone in the code group, send an email to &ldquo;<a href="mailto:rbgecodegroup@googlegroups.com">rbgecodegroup@googlegroups.com</a>&rdquo;.  It is currently being used to set up email notifications for commits on Fufluns/RBGE repo, hence why it&#39;ll say that in the footer/etc (I can change this if you&#39;d prefer?) but it also allows you to email everyone at once since it&#39;s a group mailing list technically.  If you want to subscribe, let me know.  If you&#39;re subscribed but don&#39;t wish to be, there are details in the footer of an email from the list.  If the volume of emails becomes too much because we&#39;re all committing like crazy, let me know and I can tweak it if necessary.<br/>
+Group mailing lists: <em>&ldquo;With great power, comes great responsibility&rdquo;</em> - Peter Parker</p>
+
+<h2>Meet-Ups:</h2>
+
+<h3>Next suggested meet-up :</h3>
+
+<p><strong>Next meet-up Wednesday 7th October 2014, 3.15pm, canteen</strong>
+For discussion:</p>
+
+<ul>
+<li>New course - how does it look? 
+
+<ul>
+<li>what looks exciting?</li>
+<li>what looks tricky?</li>
+<li>what looks useful?</li>
+</ul></li>
+<li>Upcoming deadlines - Quiz 1: ??[date]??</li>
+<li>Assessments or Course Project ?? </li>
+<li>New software required?
+
+<ul>
+<li>don&#39;t think so.</li>
+</ul></li>
+</ul>
+
+<h3>Previous meet-ups:</h3>
+
+<h3>Software Versions:</h3>
+
+<p>Flic is currently using the following (in 64bit Windows 7): </p>
+
+<ul>
+<li>Git - v1.9.2</li>
+<li>RStudio - v0.98.507</li>
+<li>R (32bit)- v3.1.0  (needed to change setting in RStudio global options to use 32bit instead of 64bit R)</li>
+<li>Rtools - Rtools31
+However I already had most of these installed (except Rtools) so they may not be the versions recommended by the course.</li>
+</ul>
+
+<p>Robyn is using the following  (in 64bit Windows 7):</p>
+
+<ul>
+<li>R v3.1.0 - seem to have both 32 and 64 bit available</li>
+<li>RStudio - v0.98.507 (32bit)</li>
+<li>Git 1.9.4</li>
+</ul>
+
+<h3>Week 1 Notes:</h3>
+
+<h3>Week 2 Notes:</h3>
+
+<h3>Week 3 Notes:</h3>
+
+<h3>Weel 4 Notes:</h3>
+
+<h3>Course Project/Assignment Notes:</h3>
+
+<h3>Handy Tips:</h3>
+
+<p>Feel free to share any resources or information you’ve found useful in doing this course!</p>
+
+<h3>Useful Sites:</h3>
+
+<ul>
+<li>Flowing Data - great data visualisation blog, really inspiring and interesting reading! <a href="http://flowingdata.com/">http://flowingdata.com/</a><br/>
+
+<ul>
+<li>also recommends tools to get started in R: <a href="http://flowingdata.com/2012/06/04/resources-for-getting-started-with-r/">http://flowingdata.com/2012/06/04/resources-for-getting-started-with-r/</a><br/></li>
+<li>basic charts tutorial in R: <a href="http://flowingdata.com/2012/12/17/getting-started-with-charts-in-r/">http://flowingdata.com/2012/12/17/getting-started-with-charts-in-r/</a><br/></li>
+<li>list of resources to visualise data: <a href="http://flowingdata.com/2008/10/20/40-essential-tools-and-resources-to-visualize-data/">http://flowingdata.com/2008/10/20/40-essential-tools-and-resources-to-visualize-data/</a><br/></li>
+</ul></li>
+</ul>
+
+</body>
+
+</html>
+
