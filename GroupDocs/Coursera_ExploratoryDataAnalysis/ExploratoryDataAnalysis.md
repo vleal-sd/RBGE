@@ -28,8 +28,25 @@ Group mailing lists: *"With great power, comes great responsibility"* - Peter Pa
 
 ### Next suggested meet-up : 
 
-**Next meet-up Wednesday 7th October 2014, 3.15pm, canteen**
+**Next meet-up Wednesday 22nd October 2014, 3.15pm, canteen**
 For discussion:
+  * Quizzes
+  * Lectures - useful?
+  * Upcoming deadlines - Quiz 2: ??[date]??
+  * Peer reviewing Course Project
+    
+### Previous meet-ups: 
+
+*Wednesday 15th October 2014, 3.15pm, canteen*
+Topics:
+  * New course - would've been good to know this stuff earlier :)
+  * Upcoming deadlines - Quiz 1: ??[date]??
+  * Course Project x2 
+  * New software required?
+    - doesn't seem to be
+
+*Wednesday 7th October 2014, 3.15pm, canteen*
+Topics:
   * New course - how does it look? 
     - what looks exciting?
     - what looks tricky?
@@ -38,10 +55,6 @@ For discussion:
   * Assessments or Course Project ?? 
   * New software required?
     - don't think so.
-    
-### Previous meet-ups: 
-
-
 
 
 ### Software Versions:
